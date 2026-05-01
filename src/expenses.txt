@@ -1,0 +1,4 @@
+home,200.0,food
+home,300.0,bill
+w,2.0,r
+home,200.0,bills
